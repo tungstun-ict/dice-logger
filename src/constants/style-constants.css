@@ -1,4 +1,7 @@
 :root {
-    --color-primary: red;
-    --color-secondary: blue;
+    --background-dark: #212121;
+    --background-header: #292929;
+
+    --text-light: #fff;
+    --text-dark: #000;
 }
