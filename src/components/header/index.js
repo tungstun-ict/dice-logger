@@ -6,7 +6,7 @@ class Header extends Component {
     return (
       <header className="header">
         <div className="header__background">
-            <p>I am a header</p>
+            <h1 className="header__title">dice logger</h1>
         </div>
       </header>
     );
