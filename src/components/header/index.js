@@ -11,7 +11,7 @@ class Header extends Component {
             src={require("../../assets/images/logo.png")}
             alt="logo"
           />
-          <h1 className="header__title">dice logger</h1>
+          <h1 className="header__title">dice-logger</h1>
 
           <div className="header__tools">
           <img
