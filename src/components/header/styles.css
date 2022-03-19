@@ -18,9 +18,30 @@
     font-size: 2rem;
 }
 
+.header__logo {
+    height:4rem;
+    margin: 20px;
+}
+
 .header__title {
     text-align: start;
-    margin: 20px;
     padding: 0;
     font-size: 2.5rem;
+}
+
+.header__tools {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-left: auto;
+    margin-right: 20px;
+    border-radius: 500px;
+    min-width: 200px;
+    height: 4rem;
+    background-color: var(--background-dark);
+    width: 2rem;
+}
+
+.header__profile {
+    height: 4rem;
 }
