@@ -1,11 +1,16 @@
 :root {
     --background-dark: #212121;
     --background-header: #292929;
+    --background-window: #393939;
+    --background-window-header: #464646;
+    
+    --button-close: #FF4343;
 
     --text-light: #fff;
     --text-dark: #000;
 
     --font-title: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    --font-content: 'Open Sans';
 
     --box-shadow: 0px 3px 20px 10px rgba(0,0,0,0.3);
 }
