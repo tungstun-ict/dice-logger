@@ -5,6 +5,7 @@
     border-radius: 25px;
     box-shadow: var(--box-shadow);
     font-family: var(--font-content);
+    position: relative;
 }
 
 .window__header {
